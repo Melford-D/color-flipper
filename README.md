@@ -2,4 +2,4 @@
 
 ## Hosted Link
 
-[Live Preview]()
+[Live Preview](https://melford-d.github.io/color-flipper/)
